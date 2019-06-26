@@ -1,12 +1,1 @@
-# 🎯  Start your project here
-
-## Getting Started
-
-1. Open `package.json` and change the project `name`.
-
-2. Then in terminal:
-
-```
-npm install
-npm start
-```
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2e7f646e-8d4d-4cdd-8939-e09e247f7071/deploy-status)](https://app.netlify.com/sites/admiring-lichterman-c923ea/deploys)
